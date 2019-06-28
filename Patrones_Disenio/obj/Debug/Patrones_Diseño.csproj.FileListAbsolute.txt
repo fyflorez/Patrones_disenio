@@ -1,0 +1,7 @@
+D:\Desarrollos_Fredi\Patrones_Diseño\Patrones_Diseño\Patrones_Diseño\obj\Debug\Patrones_Diseño.csprojAssemblyReference.cache
+D:\Desarrollos_Fredi\Patrones_Diseño\Patrones_Diseño\Patrones_Diseño\obj\Debug\Patrones_Diseño.csproj.CoreCompileInputs.cache
+D:\Desarrollos_Fredi\Patrones_Diseño\Patrones_Diseño\Patrones_Diseño\bin\Debug\c.exe.config
+D:\Desarrollos_Fredi\Patrones_Diseño\Patrones_Diseño\Patrones_Diseño\bin\Debug\c.exe
+D:\Desarrollos_Fredi\Patrones_Diseño\Patrones_Diseño\Patrones_Diseño\bin\Debug\c.pdb
+D:\Desarrollos_Fredi\Patrones_Diseño\Patrones_Diseño\Patrones_Diseño\obj\Debug\c.exe
+D:\Desarrollos_Fredi\Patrones_Diseño\Patrones_Diseño\Patrones_Diseño\obj\Debug\c.pdb
